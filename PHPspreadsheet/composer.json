@@ -1,0 +1,13 @@
+{
+    "name": "vendor/sunshine",
+    "type": "project",
+    "authors": [
+        {
+            "name": "pallab098",
+            "email": "pallabm2023@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.1"
+    }
+}

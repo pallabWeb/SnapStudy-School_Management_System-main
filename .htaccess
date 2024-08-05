@@ -1,0 +1,4 @@
+RewriteEngine On
+
+# Rewrite rule to hide the PHP file
+RewriteRule ^apply/?$ apply_form.php [L]
