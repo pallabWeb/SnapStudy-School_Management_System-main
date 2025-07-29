@@ -1,8 +1,8 @@
 <?php
 $host = "db.fr-pari1.bengt.wasmernet.com";
-$user = "8b8f871b7384800003f9221a97fe";
-$password = "06888b8f-871b-7535-8000-308d15e57eee";
-$db = "snapstudy";
+$user = "8be9c41c76ef8000eaa38f5f1dc6";
+$password = "06888be9-c41c-78af-8000-b51d1b993b04";
+$db = "snapStudy";
 
 $data = mysqli_connect($host, $user, $password, $db);
 ?>
